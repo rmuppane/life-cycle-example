@@ -1,1 +1,0 @@
-{"id":"c5238918-78a2-483a-9176-a2c53867ce64","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"life-cycle-example.verification","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

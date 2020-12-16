@@ -6,7 +6,7 @@ We can use org.jbpm.casemgmt.impl.wih.StartCaseWorkItemHandler to start a case i
 
 StartCaseWorkItemHandler supports the following set of input parameters to properly configure and start the subcase:
 
-![images/io.png]
+![project modules](images/io.png)
 
 You can read more about these input parameters [here](https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.1/html-single/designing_and_building_cases_for_case_management/index)
 

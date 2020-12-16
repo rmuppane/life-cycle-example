@@ -1,0 +1,1 @@
+{"id":"a93b0716-f0e7-4276-a799-84673771fa92","name":"DocumnetsCollection-taskform.frm","model":{"taskName":"DocumnetsCollection","processId":"life-cycle-example.datacollection","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
